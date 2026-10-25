@@ -1,0 +1,5 @@
+{
+  "summary":  "Updated technical audit report for Leet Guard (formerly Streak Sentinel). Documents the application type, Kotlin/Compose architecture, Room database entities, LeetCode GraphQL integration, AlarmManager and WorkManager scheduling, notification channels, foreground audio service, and unit/Robolectric test results reflecting the Leet Guard rebranding.",
+  "updatedAt":  "2026-10-25T10:12:41.082144675Z",
+  "userFacing":  true
+}

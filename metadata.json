@@ -1,0 +1,8 @@
+{
+  "name": "Leet Guard",
+  "description": "Native Android app that monitors LeetCode daily problem-solving activity, provides timely reminders, and escalates to cutoff alarms to protect your streak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
